@@ -1,0 +1,9 @@
+.taskList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.taskListItem {
+  margin-bottom: 10px;
+}
